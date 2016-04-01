@@ -1,0 +1,28 @@
+
+This is a fictional data set containing information stored on customers by Jennys Bank. 
+This information is gathered by the bank where possible in order to allow them to better model and predict customer behaviour. 
+Listed below is a short explanation of each of the variables stored in the data set.
+
+$ housing : Is the customer a home owner
+$ job : What type of job does the customer have
+$ day : Day of week call was made
+$ qualification : Highest level of qualification or education attained by customer
+$ month : Month that call was made
+$ location : What type of residential area does the customer live in
+$ online.banking : Does the customer use online banking
+$ checking.account : Does the customer have a checking account
+$ prev.sales : Number of sales to this customer in the past
+$ year.contact : Number of times this customer has been called in the last year
+$ length : The length in seconds of the call made
+$ central.interest.rate : National average interest rate 
+$ employment.rate : National employment growth index
+$ customer.satisfaction : What is the customers reported satisfaction rating with the bank
+$ price.index : National economic pricing indicator
+$ credit.rating : Customers credit rating
+$ age : Age of Customer
+$ staff_total : Total number of staff employed of day of call
+$ confidence.index : National economic confidence indicator
+$ emails.month : number of emails send to customer in previous month
+$ y : Was a sale made during this call
+
+
